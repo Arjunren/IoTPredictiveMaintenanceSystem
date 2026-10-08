@@ -1,0 +1,1 @@
+Machine condition forecast monitor is an ESP32 learning project using analog ADXL335 accelerometer with midpoint bias. It measures vibration proxy and publishes validated telemetry over Wi-Fi and TLS MQTT for maintenance engineering learners. Includes wiring, setup, calibration, source code, sensor checks, sample data, provisioning, field guidance.
